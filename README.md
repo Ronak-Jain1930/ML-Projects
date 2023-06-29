@@ -1,3 +1,0 @@
-# Demo
-
-Hey, Whats Up!
